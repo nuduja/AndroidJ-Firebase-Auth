@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187563505099",
+    "project_id": "auth-6edba",
+    "storage_bucket": "auth-6edba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187563505099:android:fdf80b6a91bbb51625b24e",
+        "android_client_info": {
+          "package_name": "mad.lab.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187563505099-5ks8u1bq7n89dm3m4rhke2f6aln7u2j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvL7MLtAlLWtrtHFsYijyELMLi486QiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187563505099-5ks8u1bq7n89dm3m4rhke2f6aln7u2j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
