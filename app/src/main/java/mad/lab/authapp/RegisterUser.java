@@ -92,7 +92,7 @@ public class RegisterUser extends AppCompatActivity implements View.OnClickListe
             editTextPassword.requestFocus();
             return;
         }
-        if(password.isEmpty()){
+        if(password.length() < 6){
             editTextPassword.setError("Minimum Password Length should be 6 characters!");
             editTextPassword.requestFocus();
             return;
